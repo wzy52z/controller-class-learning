@@ -20,8 +20,8 @@ public class MenuController {
   映射是指将HTTP请求的URL路径与处理这些请求的控制器方法关联起来的过程。
   
 1. 代码第一段指明这个HTTP请求表示在类上，其基础路径在admin/menu下
-2. 
-3.
+2. controller指明这个类将处理一个HTTP请求
+3. 声明类，并且说明在menu子目录 **edit**下，方法为GET，
 
 
 
